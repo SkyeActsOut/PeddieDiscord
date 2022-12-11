@@ -3,7 +3,7 @@
   "version": "",
   "dependencies": {
     "discord.js": "^11.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^46.0.0",
     "open": "^7.0.0",
     "passport": "^0.4.1",
